@@ -125,6 +125,7 @@ New balance: 300.00
 ---
 
 > **PT:** Projeto desenvolvido para estudo e prática de exceções em Java.
+
 > **EN:** Project developed for learning and practicing exception handling in Java.
 
 ```
